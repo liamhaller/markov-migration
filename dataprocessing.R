@@ -5,8 +5,7 @@
 # Import libraries & data -------------------------------------------------
 
 library(tidyverse)
-library(countrycode) #used to get ISO3 names from countries
-library(TraMineR) #need for seqformat & seqdef function 
+#library(countrycode) #used to get ISO3 names from countries
 
 source('dataloading.R')
 

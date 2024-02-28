@@ -1,5 +1,8 @@
 #Data visualizations
 
+library(TraMineR) #need for seqformat & seqdef function 
+
+
 #TODO
 
 #look into seq def see other ways to define the colors...
